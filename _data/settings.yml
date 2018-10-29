@@ -1,0 +1,33 @@
+# Change to true for Disqus comments
+# disqus:
+#  comments: false
+#  disqus_shortname: 'https-j-g-b-github-io-lagrange'
+
+# google-ID: 'UA-112060364-1'
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Research', path: 'menu', url: 'research.html'}
+- {name: 'Teaching', path: 'menu', url: 'teaching.html'}
+- {name: 'Posts', path: 'menu', url: 'posts.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link: 'https://www.github.com/j-g-b'}
+# - {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jordan-bryan-455920168/'}
+- {icon: 'envelope', link: 'mailto:jordan.bryan@duke.edu'}
+# - {icon: 'rss-square', link: '/feed.xml'}
+# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy:'
+
+post_date_prefix: 'Written on'
