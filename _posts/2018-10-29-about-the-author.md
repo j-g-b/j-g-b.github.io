@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Author"
+title: "About me"
 author: "Jordan Bryan"
 categories: journal
 tags: [documentation,sample]
