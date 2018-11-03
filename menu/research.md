@@ -10,11 +10,9 @@ title: Research
 - Information geometry
 - Russian literature
 
-### Preprints
-
-McFarland, JM, Ho, ZV, Kugener, G, Dempster, JM, Montgomery, PG, **Bryan, JG**, Krill-Burger, JM, Green, TM, Vazquez, F, Boehm, JS, Golub, TR, Hahn, WC, Root, DE and Tsherniak, A. "[Improved estimation of cancer dependencies from large-scale RNAi screens using model-based normalization and data integration](https://www.biorxiv.org/content/early/2018/04/24/305656)."
-
 ### Publications
+
+McFarland, JM, Ho, ZV, Kugener, G, Dempster, JM, Montgomery, PG, **Bryan, JG**, Krill-Burger, JM, Green, TM, Vazquez, F, Boehm, JS, Golub, TR, Hahn, WC, Root, DE and Tsherniak, A. “[Improved Estimation of Cancer Dependencies from Large-Scale RNAi Screens Using Model-Based Normalization and Data Integration](https://www.nature.com/articles/s41467-018-06916-5).” *Nature Communications* 9, no. 1 (December 2018). https://doi.org/10.1038/s41467-018-06916-5.
 
 Gray, SW, Gagan, J, Cerami, E, Cronin, AM, Uno, H, Oliver, N, Lowenstein, C, Lederman, R, Revette, A, Suarez, A, Lee, C, **Bryan, J**, Sholl, L, and Van Allen, EM. "[Interactive or static reports to guide clinical interpretation of cancer genomics](https://academic.oup.com/jamia/article/25/5/458/4791826)." *Journal of the American Medical Informatics Association* 25.5 (May 1, 2018): 458-464.
 
