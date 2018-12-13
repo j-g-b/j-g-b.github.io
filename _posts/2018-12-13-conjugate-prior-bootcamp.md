@@ -11,7 +11,7 @@ This post follows the table at the end of the [Conjugate prior Wikipedia page](h
 
 The derivations here tend to show some of the intermediary steps that might not be obvious to students working these out for the first time. I also tried to follow common naming conventions for parameters of distributions and to keep the notation fairly consistent throughout so that the whole list can be read in a uniform way. 
 
-Lowercase \\(n\\) always indicates the number of independent data points drawn from the data-generating distribution, and lowercase \\(i\\) is always the index to this axis. The variable \\(X\\) or \\(x\\) is always used to denote data.
+Lowercase \\(n\\) always indicates the number of independent data points drawn from the data-generating distribution, and lowercase \\(i\\) is always the index to this axis. The symbol \\(X\\) or \\(x\\) is always used to denote data.
 
 Every derivation follows the same procedure:
 
