@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: conjugate_priors.jpeg
 ---
 
-This post follows the table at the end of the [Conjugate prior Wikipedia page](https://en.wikipedia.org/wiki/Conjugate_prior) to derive posterior distributions for parameters of a range of likelihood functions. Many resources for learning the mechanics of posterior inference [already exist](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf), so there's nothing particularly new to be seen here. However, maybe others learning about Bayesian inference will find this useful as a supplement to other resources. 
+This post follows the table at the end of the [Conjugate prior Wikipedia page](https://en.wikipedia.org/wiki/Conjugate_prior) to derive posterior distributions for parameters of a range of likelihood functions. Many resources for learning the mechanics of posterior inference under conjugate priors [already exist](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf), so there's nothing particularly new to be seen here. However, maybe others learning about Bayesian inference will find this useful as a supplement to other resources. 
 
 The derivations here tend to show some of the intermediary steps that might not be obvious to students working these out for the first time. I also tried to follow common naming conventions for parameters of distributions and to keep the notation fairly consistent throughout so that the whole list can be read in a uniform way. 
 
