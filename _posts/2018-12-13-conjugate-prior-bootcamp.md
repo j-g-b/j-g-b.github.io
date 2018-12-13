@@ -19,7 +19,7 @@ Every derivation follows the same procedure:
 2. Ignore all terms in the product that don't involve the parameter on which inference is being performed.
 3. Combine like terms and recognize that the resulting expression has an analogous form to that of the conjugate prior density function.
 
-Inference on the mean parameters in the \\(\text{Normal}\\) likelihood setting use a shortcut instead of explicitly completing the square for the quadratic term inside the exponential. In general, for constants \\(a\\) and \\(b\\)
+The derivations for inference on the mean parameters in the \\(\text{Normal}\\) likelihood setting use a shortcut that skips the step of explicitly completing the square for the quadratic term inside the exponential. In general, for constants \\(a\\) and \\(b\\)
 
 $$ 
 p_X(x) \propto e^{-\frac{ax^2 + 2bx}{2}} \implies X \sim \text{Normal}\bigg(a^{-1} b, a^{-1}\bigg)
