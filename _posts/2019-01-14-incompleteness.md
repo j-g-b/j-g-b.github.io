@@ -7,8 +7,6 @@ tags: [documentation,sample]
 image: godstoevsky.jpeg
 ---
 
-## Introduction
-
 > We hear within us the perpetual call: There is the problem. Seek its solution. You can find it by pure reason, for in mathematics there is no ignorabimus.<sup>1</sup>
 
 Though not a writer himself, David Hilbert had a flair for the literary. And, at the moment in history when he spoke these words, he had every right to indulge it. When he delivered his address at the Paris conference of the International Congress of Mathematicians in 1900, he stood atop a century of immense mathematical achievement, which, along with advances in analysis, algebra, and geometry, had witnessed the development of the first inferential methods designed to draw conclusions from data collected in the natural world. The conspicuous success of these methods, beginning with Carl Frederich Gauss's prediction of the orbit of Ceres in 1801 and continuing with Quetelet's statistical examination of the "average man" in 1835,<sup>2</sup> did more than to aid in the progress of mathematical theory: they breached the public imagination.
