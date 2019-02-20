@@ -7,9 +7,9 @@ tags: [documentation,sample]
 image: conjugate_priors.jpeg
 ---
 
-This post follows the table at the end of the [Conjugate prior Wikipedia page](https://en.wikipedia.org/wiki/Conjugate_prior) to derive posterior distributions for parameters of a range of likelihood functions. Many resources for learning the mechanics of posterior inference under conjugate priors [already exist](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf), so there's nothing particularly new to be seen here. However, maybe others learning about Bayesian inference will find this useful as a supplement to other resources. 
+This post follows the table at the end of the [Conjugate prior Wikipedia page](https://en.wikipedia.org/wiki/Conjugate_prior) to derive posterior distributions for parameters of a range of likelihood functions. Many resources for learning the mechanics of posterior inference under conjugate priors [already exist](https://www.johndcook.com/CompendiumOfConjugatePriors.pdf), so there's nothing particularly new to be seen here. However, maybe others learning about Bayesian inference will find this useful as a supplement to other resources.
 
-The derivations here tend to show some of the intermediary steps that might not be obvious to students working these out for the first time. I also tried to follow common naming conventions for parameters of distributions and to keep the notation fairly consistent throughout so that the whole list can be read in a uniform way. 
+The derivations here tend to show some of the intermediary steps that might not be obvious to students working these out for the first time. I also tried to follow common naming conventions for parameters of distributions and to keep the notation fairly consistent throughout so that the whole list can be read in a uniform way.
 
 Lowercase \\(n\\) always indicates the number of independent data points drawn from the data-generating distribution, and lowercase \\(i\\) is always the index to this axis. The symbol \\(X\\) or \\(x\\) is always used to denote data.
 
@@ -144,7 +144,7 @@ $$
 \begin{aligned}
 p_{\lambda | X_1, \dots, X_n}(\lambda) &\propto p_{X_1, \dots, X_n | \lambda}(x_1, \dots, x_n) \cdot p_{\lambda | \alpha, \beta}(\lambda) \\
 &\propto \lambda^{\sum_{i=1}^n x_i} e^{-n\lambda} \lambda^{\alpha - 1} e^{-\beta \lambda} \\
-&= \lambda^{\alpha + \sum_{i=1}^n x_i - 1} \lambda^{-(\beta + n)\lambda} \\
+&= \lambda^{\alpha + \sum_{i=1}^n x_i - 1} e^{-(\beta + n)\lambda} \\
 &\propto \text{Gamma}\Big(\alpha + \sum_{i=1}^n x_i, \beta + n\Big)
 \end{aligned}
 $$
