@@ -26,6 +26,8 @@ Mackey, L, **Bryan, J**, and Mo, MY. "[Weighted Classification Cascades for Opti
 
 ### Talks
 
+Bryan, J. G. (2019, March). *Incompleteness and the Underground*. Paper presented at the 57th Annual Southern Conference on Slavic Studies, Mobile, AL.
+
 CERES: A New Approach to Correct for Copy Number in CRISPR-Cas9 Screens. CTD^2 D-HIP Webinar Series. CTD^2 Network. July 12, 2018
 
 CERES—A model for inferring genetic dependencies in cancer cell lines from CRISPR knockout screens. Meeting on Biological Data Science. Cold Spring Harbor Laboratory. October 26, 2016
