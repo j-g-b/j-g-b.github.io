@@ -26,6 +26,8 @@ Mackey, L, **Bryan, J**, and Mo, MY. "[Weighted Classification Cascades for Opti
 
 ### Talks
 
+Bryan, J. G. (2019, April). *Incompleteness and the Underground*. Paper presented at the "Stages of Life" - the Second Annual Duke-Stanford Graduate Conference, Durham, NC.
+
 Bryan, J. G. (2019, March). *Incompleteness and the Underground*. Paper presented at the 57th Annual Southern Conference on Slavic Studies, Mobile, AL.
 
 CERES: A New Approach to Correct for Copy Number in CRISPR-Cas9 Screens. CTD^2 D-HIP Webinar Series. CTD^2 Network. July 12, 2018
