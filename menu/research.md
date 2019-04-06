@@ -3,10 +3,9 @@ layout: page
 title: Research
 ---
 
-### Research interests
+### Interests
 
 - Cancer genomics
-- Meta-algorithms
 - Information geometry
 - Russian literature
 
