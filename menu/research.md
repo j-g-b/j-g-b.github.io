@@ -26,7 +26,7 @@ Mackey, L, **Bryan, J**, and Mo, MY. "[Weighted Classification Cascades for Opti
 
 ### Talks
 
-*Incompleteness and the Underground*. Paper presented at the "Stages of Life" - the Second Annual Duke-Stanford Graduate Conference, Durham, NC. April 6, 2019.
+*Incompleteness and the Underground*. Paper presented at the 2nd Annual Duke-Stanford Graduate Conference, Durham, NC. April 6, 2019.
 
 *Incompleteness and the Underground*. Paper presented at the 57th Annual Southern Conference on Slavic Studies, Mobile, AL. March 15, 2019.
 
