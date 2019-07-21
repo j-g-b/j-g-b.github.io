@@ -353,7 +353,7 @@ $$
 
 $$
 \begin{aligned}
-p_{\theta | X_1, \dots, X_n} &\propto p_{X_1, \dots, X_n | \theta}(x_1, \dots, x_n) \cdot p_{\theta | \alpha, \beta}(\theta) \\
+p_{\theta | X_1, \dots, X_n} &\propto p_{X_1, \dots, X_n | \theta}(x_1, \dots, x_n) \cdot p_{\theta | k, m}(\theta) \\
 &\propto \frac{\mathbb{I}[0 < \max(x_1, \dots, x_n) \leq \theta]}{\theta^n} \frac{\mathbb{I}[m \leq \theta]}{\theta^{k + 1}} \\ 
 &= \frac{\mathbb{I}[0 < \max(x_1, \dots, x_n, m) \leq \theta]}{\theta^{k + n + 1}} \\
 &\propto \text{Pareto}\bigg(\max(x_1, \dots, x_n, m), k + n \bigg)
