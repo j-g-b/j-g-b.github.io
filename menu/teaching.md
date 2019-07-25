@@ -5,6 +5,10 @@ title: Teaching
 
 ### Courses
 
-Fall 2019: STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
+**2019:** 
 
-Fall 2018: STA 101 - Data Analysis and Statistical Inference - Head TA
+STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
+
+**2018** 
+
+STA 101 - Data Analysis and Statistical Inference - Head TA
