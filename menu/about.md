@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am currently a first year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University.
+I am currently a second year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University.
 
 ### Previous work
 
