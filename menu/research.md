@@ -9,6 +9,10 @@ title: Research
 - Information geometry
 - Russian literature
 
+### Preprints
+
+Corsello, SM, Nagari, RT, Spangler, RD, Rossen, J, Kocak, M, **Bryan, JG**, Humeidi, Ranad, Peck, D, Wu, X, Tang, AA, Wang, VM, Bender, SA, Lemire, E, Narayan, R, Montgomery, R, Ben-David, U, Chen, Y, Rees, MG, Lyons, NJ, McFarland, JM, Wong, BT, Wang, L, Dumont, N, O'Hearn, PJ, Stefan, E, Doench, JG, Greulich, H, Meyerson, M, Vazquez, F, Subramanian, A, Roth, JA, Bittker, JA, Boehm, JS, Mader, CC, Tsherniak, A and Golub, TR. "[Non-oncology drugs are a source of previously unappreciated anti-cancer activity](https://www.biorxiv.org/content/10.1101/730119v1.abstract)." *preprint*, bioRxiv: https://doi.org/10.1101/730119.
+
 ### Publications
 
 McFarland, JM, Ho, ZV, Kugener, G, Dempster, JM, Montgomery, PG, **Bryan, JG**, Krill-Burger, JM, Green, TM, Vazquez, F, Boehm, JS, Golub, TR, Hahn, WC, Root, DE and Tsherniak, A. “[Improved Estimation of Cancer Dependencies from Large-Scale RNAi Screens Using Model-Based Normalization and Data Integration](https://www.nature.com/articles/s41467-018-06916-5).” *Nature Communications* 9, no. 1 (December 2018). https://doi.org/10.1038/s41467-018-06916-5.
