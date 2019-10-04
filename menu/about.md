@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am currently a second year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University. My work is jointly supervised by Professors [Peter D. Hoff](http://pdhoff.github.io) and [Sayan Mukherjee](http://sayanmuk.github.io).
+I am currently a second year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University. My work is jointly supervised by Professors [Peter Hoff](http://pdhoff.github.io) and [Sayan Mukherjee](http://sayanmuk.github.io).
 
 ### Previous work
 
