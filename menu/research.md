@@ -3,8 +3,6 @@ layout: page
 title: Research
 ---
 
-### Interests
-
 My research interests are still under active development. Topics and questions I am currently thinking about include:
 
 - **Cancer genomics**
