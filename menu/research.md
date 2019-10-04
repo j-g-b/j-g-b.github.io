@@ -5,9 +5,17 @@ title: Research
 
 ### Interests
 
-- Cancer genomics
-- Information geometry
-- Russian literature
+My research interests are still under active development. Topics and questions I am currently thinking about include:
+
+- **Cancer genomics**
+	- What are best practices for jointly modeling several modes of genomics data, such as DNA sequencing, RNA sequencing, and RNAi / CRISPR depletion data?
+	- Can large multi-omics datasets be used to inform small- and medium-scale biological experiments?
+- **Optimal transport**
+	- What kinds of decision problems are best served by estimators based on minimum transport distances?
+	- Is it possible (and/or desirable) to perform Bayesian model-averaging over sampling models that live in neighborhoods defined by minimum transport distances?
+- **Russian literature**
+	- What role does mathematical philosophy play in Dostoevsky's writing?
+	- Did Andrei Bely practice Buddhist meditation?
 
 ### Preprints
 
