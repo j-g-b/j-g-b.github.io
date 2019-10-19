@@ -10,7 +10,7 @@ image: min_wass.jpeg
 
 Recently, [Rigollet and Weed (2019)](https://academic.oup.com/imaiai/advance-article/doi/10.1093/imaiai/iaz006/5425686)<sup>1</sup> introduced a consistent estimator for the problem of *uncoupled isotonic regression*. The authors also proposed a computationally efficient procedure for computing a relaxed version of the estimator, which achieves the same minimax rate.
 
-Rigollet and Weed's estimator minimizes the Wasserstein-2 distance between the discrete, uniform measure on the observed data \\(\{y_1, \dots, y_n\}\\) -- named \\(\hat{\pi}\\) -- and the pushforward of the discrete uniform measure on the design points \\(\{x_1, \dots, x_n\}\\) under the unknown regression function \\(f\\) convolved with a noise distribution \\(\mathcal{D}\\).
+Rigollet and Weed's estimator relaxed estimator minimizes the Wasserstein-2 distance between the discrete, uniform measure on the observed data \\(\{y_1, \dots, y_n\}\\) -- named \\(\hat{\pi}\\) -- and a quantization of the pushforward of the discrete uniform measure on the design points \\(\{x_1, \dots, x_n\}\\) under the unknown regression function \\(f\\) convolved with a noise distribution \\(\mathcal{D}\\).
 
 To implement Rigollet and Weed's relaxed minimum-\\(W_2\\) estimator, one solves
 
