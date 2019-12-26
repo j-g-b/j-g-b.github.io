@@ -5,6 +5,10 @@ title: Teaching
 
 ### Courses
 
+**2020:**
+
+STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
+
 **2019:** 
 
 STA 490/690 - History of (mostly) Bayesian Statistics - Research Assistant
