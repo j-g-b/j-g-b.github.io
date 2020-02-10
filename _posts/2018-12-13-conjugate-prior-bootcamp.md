@@ -286,7 +286,7 @@ $$
 ### Multivariate normal likelihood
 
 $$
-p_{\mathbf{X} | \mu, \Sigma}(\mathbf{x}) = \frac{1}{\sqrt{2 \pi |\Sigma|}} e^{-\frac{(\mathbf{x} - \mu)^T \Sigma^{-1} (\mathbf{x} - \mu) }{2}}
+p_{\mathbf{X} | \mu, \Sigma}(\mathbf{x}) = \frac{1}{\sqrt{(2 \pi)^n |\Sigma|}} e^{-\frac{(\mathbf{x} - \mu)^T \Sigma^{-1} (\mathbf{x} - \mu) }{2}}
 $$
 
 #### Inference on mean vector \\(\mu\\) with known covariance matrix \\(\Sigma\\)
@@ -296,7 +296,7 @@ $$
 As a function of \\(\mu\\) alone, the Multivariate Normal likelihood function is proportional to a Multivariate Normal density function.
 
 $$
-p_{\mu | \tau, \Sigma_0}(\mu) = \frac{1}{\sqrt{2 \pi |\Sigma_0|}} e^{-\frac{(\mu - \tau)^T \Sigma_0^{-1} (\mu - \tau) }{2}}
+p_{\mu | \tau, \Sigma_0}(\mu) = \frac{1}{\sqrt{(2 \pi)^n |\Sigma_0|}} e^{-\frac{(\mu - \tau)^T \Sigma_0^{-1} (\mu - \tau) }{2}}
 $$
 
 ##### Posterior update
