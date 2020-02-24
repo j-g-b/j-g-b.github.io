@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Estimating the signal and noise in linear models"
+title: "Estimating signal and noise in linear models"
 author: "Jordan Bryan"
 categories: journal
 tags: [documentation,sample]
