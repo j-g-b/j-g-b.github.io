@@ -30,7 +30,7 @@ $$
 \mathbf{A} = \psi^2 \mathbf{X} \mathbf{X}^T + \tau^2 \mathbf{I}
 $$
 
-As long the rows of \\(\mathbf{X}\\) are not mutually orthogonal -- which would make \\(\mathbf{X}\mathbf{X}^T\\) equal to the identity -- variation due to \\(\psi^2\\) and variation due to \\(\tau^2\\) can be disambiguated. In fact, under certain conditions, maximum likelihood estimators for \\(\psi^2\\) and \\(\tau^2\\) are available, even when \\(p > n\\). 
+As long as the rows of \\(\mathbf{X}\\) are not mutually orthogonal -- which would make \\(\mathbf{X}\mathbf{X}^T\\) equal to the identity -- variation due to \\(\psi^2\\) and variation due to \\(\tau^2\\) can be disambiguated. In fact, under certain conditions, maximum likelihood estimators for \\(\psi^2\\) and \\(\tau^2\\) are available, even when \\(p > n\\). 
 
 The log-likelihood in terms of \\(\psi^2\\) and \\(\tau^2\\) is
 
