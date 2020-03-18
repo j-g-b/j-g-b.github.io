@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: soundcloud.jpg
 ---
 
-Announcing the creation of a new [SoundCloud profile](https://soundcloud.com/user-902195483). Tracks will be posted sporadically, with the hope of improvement in sound quality as time goes on.
+Announcing the creation of a new [SoundCloud profile](https://soundcloud.com/user-902195483). Tracks will be posted sporadically, with the hope of improvement in quality as time goes on.
 
 **Instruments:**
 
