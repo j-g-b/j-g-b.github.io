@@ -16,6 +16,10 @@ My research interests are still under active development. Topics and questions I
 	- Did Andrei Bely practice Buddhist meditation?
 
 
+### Preprints
+
+**Bryan, JG**, and Hoff, PD. “[Smaller \\(p\\)-values in genomics studies using distilled historical information](https://arxiv.org/abs/2004.07887).” ArXiv:2004.07887 [Stat], April 16, 2020. http://arxiv.org/abs/2004.07887.
+
 ### Publications
 
 Corsello, SM, Nagari, RT, Spangler, RD, Rossen, J, Kocak, M, **Bryan, JG**, Humeidi, R, Peck, D, Wu, X, Tang, AA, Wang, VM, Bender, SA, Lemire, E, Narayan, R, Montgomery, P, Ben-David, U, Garvie, CW, Chen, Y, Rees, MG, Lyons, NJ, McFarland, JM, Wong, BT, Wang, L, Dumont, N, O'Hearn, PJ, Stefan, E, Doench, JG, Greulich, H, Meyerson, M, Vazquez, F, Subramanian, A, Roth, JA, Bittker, JA, Boehm, JS, Mader, CC, Tsherniak, A and Golub, TR. "[Discovering the anticancer potential of non-oncology drugs by systematic viability profiling](https://www.nature.com/articles/s43018-019-0018-6)." *Nature Cancer*, (January 2020) doi:10.1038/s43018-019-0018-6
@@ -29,6 +33,8 @@ Meyers, RM, **Bryan, JG**, McFarland, JM, Weir, BA, Sizemore, AE, Xu, H, Dharia,
 Mackey, L, **Bryan, J**, and Mo, MY. "[Weighted Classification Cascades for Optimizing Discovery Significance in the HiggsML Challenge](http://proceedings.mlr.press/v42/mack14.html)." Ed. Cowan, G, Germain, C, Guyon, I, Kégl, B and Rousseau, D. *Proceedings of the Nips 2014 Workshop on High Energy Physics and Machine Learning* 42 (December 13, 2015): 129-134.
 
 ### Software
+
+- [BTF](https://github.com/j-g-b/BTF): R package for Bayesian inference in a low-rank tensor factorization model
 
 - [ceres](https://github.com/cancerdatasci/ceres): R package for correction of copy-number effect in CRISPR-Cas9 essentiality screens in cancer cell lines
 
