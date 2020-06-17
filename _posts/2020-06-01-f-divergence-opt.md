@@ -42,7 +42,7 @@ where \\(\ell(y, \theta) = -\log p(y \| \theta)\\). One interpretation of this u
 Of course, since 
 
 $$
-D_\text{KL}\left( \nu || P \right) \iff \nu = P
+D_\text{KL}\left( \nu || P \right) = 0 \iff \nu = P
 $$
 
 the solution to the variational problem is \\(P\\) itself when the class of distributions over which one optimizes is unrestricted. Most methods under the umbrella of "Variational Inference" instead tackle this minimization problem when \\(\nu\\) is assumed to be from a parametric family, which may not be the parametric family to which the true posterior belongs.
