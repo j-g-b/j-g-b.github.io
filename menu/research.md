@@ -22,6 +22,9 @@ My research interests are still under active development. Topics and questions I
 
 ### Publications
 
+Wu, J, **Bryan, J**, Rubinstein, SM, Wang, L, Lenoue-Newton, M, Zuhour, R, Levy, M, Micheel, C, Xu, Y, Bhavnani, SK, Mackey, L, and Warner, JL. "[Opportunities and Challenges for Analyzing Cancer Data at the Inter- and Intra-Institutional Levels](https://ascopubs.org/doi/abs/10.1200/PO.19.00394)."
+*JCO Precision Oncology*, (June 25, 2020): 743-756 
+
 Corsello, SM, Nagari, RT, Spangler, RD, Rossen, J, Kocak, M, **Bryan, JG**, Humeidi, R, Peck, D, Wu, X, Tang, AA, Wang, VM, Bender, SA, Lemire, E, Narayan, R, Montgomery, P, Ben-David, U, Garvie, CW, Chen, Y, Rees, MG, Lyons, NJ, McFarland, JM, Wong, BT, Wang, L, Dumont, N, O'Hearn, PJ, Stefan, E, Doench, JG, Greulich, H, Meyerson, M, Vazquez, F, Subramanian, A, Roth, JA, Bittker, JA, Boehm, JS, Mader, CC, Tsherniak, A and Golub, TR. "[Discovering the anticancer potential of non-oncology drugs by systematic viability profiling](https://www.nature.com/articles/s43018-019-0018-6)." *Nature Cancer*, (January 2020) doi:10.1038/s43018-019-0018-6
 
 McFarland, JM, Ho, ZV, Kugener, G, Dempster, JM, Montgomery, PG, **Bryan, JG**, Krill-Burger, JM, Green, TM, Vazquez, F, Boehm, JS, Golub, TR, Hahn, WC, Root, DE and Tsherniak, A. “[Improved Estimation of Cancer Dependencies from Large-Scale RNAi Screens Using Model-Based Normalization and Data Integration](https://www.nature.com/articles/s41467-018-06916-5).” *Nature Communications* 9, no. 1 (December 2018). https://doi.org/10.1038/s41467-018-06916-5.
