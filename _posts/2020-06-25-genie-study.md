@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Opportunities and Challenges for Analyzing Cancer Data at the Inter- and Intra-Institutional Levels"
+title: "Opportunities and challenges for analyzing cancer data at the inter- and intra-institutional levels"
 author: "Jordan Bryan"
 categories: journal
 tags: [documentation,sample]
