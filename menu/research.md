@@ -30,7 +30,7 @@ Mackey, L, **Bryan, J**, and Mo, MY. "[Weighted Classification Cascades for Opti
 
 ### Talks
 
-*Smaller P-Values in Genomics Studies Using Distilled Historical Information*. Contributed talk at Joint Statistical Meetings, Online, August 3rd, 2020
+*Smaller $p$-Values in Genomics Studies Using Distilled Historical Information*. Contributed talk at Joint Statistical Meetings, Online, August 3rd, 2020
 
 *Incompleteness and the Underground*. Paper presented at the 2nd Annual Duke-Stanford Graduate Conference, Durham, NC. April 6, 2019
 
