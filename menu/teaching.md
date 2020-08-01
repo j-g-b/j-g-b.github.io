@@ -7,6 +7,8 @@ title: Teaching
 
 **2020:**
 
+STA 325 - Machine Learning and Data Mining
+
 STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
 
 **2019:** 
