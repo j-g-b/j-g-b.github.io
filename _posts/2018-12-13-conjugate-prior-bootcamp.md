@@ -28,7 +28,7 @@ $$
 or equivalently
 
 $$ 
-p_Z(z) \propto e^{-\frac{z^2 + 2(b/a)z}{2/a}} \implies Z \sim \text{Normal}\bigg(a^{-1} b, a^{-1}\bigg)
+p_Z(z) \propto e^{-\frac{z^2 - 2(b/a)z}{2/a}} \implies Z \sim \text{Normal}\bigg(a^{-1} b, a^{-1}\bigg)
 $$
 
 This extends to the multivariate setting where the term inside the exponential is a quadratic form and the constants \\(A\\) and \\(B\\) are a matrix and a vector, respectively:
