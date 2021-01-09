@@ -9,6 +9,8 @@ title: Research
 
 ### Publications
 
+- Dhimolea, E, Simoes, RDM, Kansara, D, Al-Khafaji, A, Bouyssou, J, Weng, X, Sharma, S, Raja, J, Awate, P, Shirasaki, R, Tang, H, Glassner, BJ, Liu, Z, Gao, D, **Bryan, J**, Bender, S, Roth, J, Scheffer, M, Jeselsohn, R, Gray, NS, Georgakoudi, I, Vazquez, F, Tsherniak, A, Chen, Y, Welm, A, Cihangir, D, Melnick, A, Bartholdy, B, Brown, M, Culhane, AC, Mitsiades, CS. "[An Embryonic Diapause-like Adaptation with Suppressed Myc Activity Enables Tumor Treatment Persistence](https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30609-7)." *Cancer Cell*, (January 07, 2021). https://doi.org/10.1016/j.ccell.2020.12.002
+
 - Wu, J, **Bryan, J**, Rubinstein, SM, Wang, L, Lenoue-Newton, M, Zuhour, R, Levy, M, Micheel, C, Xu, Y, Bhavnani, SK, Mackey, L, and Warner, JL. "[Opportunities and Challenges for Analyzing Cancer Data at the Inter- and Intra-Institutional Levels](https://ascopubs.org/doi/abs/10.1200/PO.19.00394)."
 *JCO Precision Oncology*, (June 25, 2020): 743-756 
 
