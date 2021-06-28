@@ -34,6 +34,8 @@ title: Research
 
 ### Talks
 
+- [*Smaller \\(p\\)-Values in Genomics Studies Using Distilled Auxilliary Information*](/assets/misc/smaller_p_values_in_genomics_studies_pres.pdf). Contributed talk at ISBA, Online, June 28th, 2021
+
 - [*Smaller \\(p\\)-Values in Genomics Studies Using Distilled Historical Information*](/assets/misc/smaller_p_values_in_genomics_studies_pres.pdf). Contributed talk at Joint Statistical Meetings, Online, August 3rd, 2020
 
 - *Incompleteness and the Underground*. Paper presented at the 2nd Annual Duke-Stanford Graduate Conference, Durham, NC. April 6, 2019
