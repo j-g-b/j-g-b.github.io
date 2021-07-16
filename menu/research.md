@@ -3,11 +3,9 @@ layout: page
 title: Research
 ---
 
-### Preprints
-
-- **Bryan, JG**, and Hoff, PD. “[Smaller \\(p\\)-values in genomics studies using distilled historical information](https://arxiv.org/abs/2004.07887).” ArXiv:2004.07887 [Stat], April 16, 2020. http://arxiv.org/abs/2004.07887.
-
 ### Publications
+
+- **Bryan, JG**, and Hoff, PD. “[Smaller \\(p\\)-values in genomics studies using distilled historical information](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxaa053/6322375?redirectedFrom=fulltext).” *Biostatistics*, (July 16, 2021). https://doi.org/10.1093/biostatistics/kxaa053.
 
 - **Bryan, J**, Mandan, A, Kamat, G, Gottschalk, WK, Badea, A, Adams, KJ, Thompson, JW, Colton, CA, Mukherjee, S, Lutz, MW. "[Likelihood ratio statistics for gene set enrichment in Alzheimer's disease pathways](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12223)." *Alzheimer's & Dementia*, (January 21, 2021). https://doi.org/10.1002/alz.12223
 
