@@ -5,7 +5,7 @@ title: Research
 
 ### Publications
 
-- **Bryan, JG**, and Hoff, PD. “[Smaller \\(p\\)-values in genomics studies using distilled historical information](https://academic.oup.com/biostatistics/advance-article-abstract/doi/10.1093/biostatistics/kxaa053/6322375?redirectedFrom=fulltext).” *Biostatistics*, (July 16, 2021). https://doi.org/10.1093/biostatistics/kxaa053.
+- **Bryan, JG**, and Hoff, PD. “[Smaller \\(p\\)-values in genomics studies using distilled historical information](https://urldefense.com/v3/__http://track.smtpsendmail.com/9032119/c?p=BS51oA2XPTHgL-9RG1d5r0zXlAZtcT4umbXULOLFVe_gmu4cT3D0VVu6L_ZanqTQ3N8950GHm_r_Ozagw3FlhJL6K6h0ljXXJgHx6nXzJZ7A9CCTY6QXs9X3xAfjR8DeFDTVPnHld77sgDgjA6m2I52Blbd1ndN_1k6D27reyFAKVWmz_3wM3Z3NZVAllWGyBKuF2izAKr9bIkm_bS-eM_XE2Bz_3CdX1qxq2m3fWn5OdhIKnNleay-fhj8MjMkmGCaDazrIf_OGsobVQnu5mNSQKmlwvHnWDjeu9YjOYkY=__;!!OToaGQ!-nObcvGGcBHm-APcKv-j6jsCtN8IfKaUrhdKxUg8NCbAFl8C0XPW2vB8UEQp4fD7wBk$).” *Biostatistics*, (July 16, 2021). https://doi.org/10.1093/biostatistics/kxaa053.
 
 - **Bryan, J**, Mandan, A, Kamat, G, Gottschalk, WK, Badea, A, Adams, KJ, Thompson, JW, Colton, CA, Mukherjee, S, Lutz, MW. "[Likelihood ratio statistics for gene set enrichment in Alzheimer's disease pathways](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.12223)." *Alzheimer's & Dementia*, (January 21, 2021). https://doi.org/10.1002/alz.12223
 
