@@ -5,6 +5,10 @@ title: Teaching
 
 ### Courses
 
+**2021:**
+
+STA 521 - Predictive Modeling and Statistical Learning
+
 **2020:**
 
 STA 325 - Machine Learning and Data Mining
