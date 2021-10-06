@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am currently a third year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University. My work is jointly supervised by Professors [Peter Hoff](http://pdhoff.github.io) and [Sayan Mukherjee](http://sayanmuk.github.io).
+I am currently a fourth year PhD student in the [Department of Statistical Science](https://stat.duke.edu) at Duke University. My work is jointly supervised by Professors [Peter Hoff](http://pdhoff.github.io) and [Sayan Mukherjee](http://sayanmuk.github.io).
 
 Prior to coming to Duke, I worked with Aviad Tsherniak on the [Cancer Data Science](http://www.cancerdatascience.org) team at the Broad Institue of MIT and Harvard. I contributed to the [Cancer Dependency Map](https://depmap.org/portal/) effort with a focus on data analysis for the [PRISM](https://depmap.org/portal/prism/) profiling method.
 
