@@ -7,11 +7,11 @@ title: Teaching
 
 **2021:**
 
-STA 521 - Predictive Modeling and Statistical Learning
+STA 521 - Predictive Modeling and Statistical Learning - TA
 
 **2020:**
 
-STA 325 - Machine Learning and Data Mining
+STA 325 - Machine Learning and Data Mining - TA
 
 STA 360/601 - Bayesian Inference and Modern Statistical Methods - Head TA
 
