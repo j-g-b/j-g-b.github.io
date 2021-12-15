@@ -3,6 +3,10 @@ layout: page
 title: Research
 ---
 
+### Preprints
+
+- **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood and cyclically monotone Monte Carlo: a semiparametric approach to CCA](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465. 
+
 ### Publications
 
 - **Bryan, JG**, and Hoff, PD. "[Smaller \\(p\\)-values in genomics studies using distilled historical information](https://urldefense.com/v3/__http://track.smtpsendmail.com/9032119/c?p=BS51oA2XPTHgL-9RG1d5r0zXlAZtcT4umbXULOLFVe_gmu4cT3D0VVu6L_ZanqTQ3N8950GHm_r_Ozagw3FlhJL6K6h0ljXXJgHx6nXzJZ7A9CCTY6QXs9X3xAfjR8DeFDTVPnHld77sgDgjA6m2I52Blbd1ndN_1k6D27reyFAKVWmz_3wM3Z3NZVAllWGyBKuF2izAKr9bIkm_bS-eM_XE2Bz_3CdX1qxq2m3fWn5OdhIKnNleay-fhj8MjMkmGCaDazrIf_OGsobVQnu5mNSQKmlwvHnWDjeu9YjOYkY=__;!!OToaGQ!-nObcvGGcBHm-APcKv-j6jsCtN8IfKaUrhdKxUg8NCbAFl8C0XPW2vB8UEQp4fD7wBk$)." *Biostatistics*, (July 16, 2021). https://doi.org/10.1093/biostatistics/kxaa053
