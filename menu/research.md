@@ -5,7 +5,7 @@ title: Research
 
 ### Preprints
 
-1. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood and cyclically monotone Monte Carlo: a semiparametric approach to CCA](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465. 
+1. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465. 
 
 ### Publications
 
@@ -38,18 +38,20 @@ title: Research
 
 ### Talks
 
-1. *The multirank likelihood for semiparametric CCA*. Invited talk at CFE-CMStatistics, Online, December 19th, 2021
+1. *The multirank likelihood for semiparametric CCA*. Contributed talk at BNP Networking Event, Nicosia, Cyprus. April 27, 2022.
 
-2. *Nonparametric empirical Bayes estimation using entropic optimal transport*. Speed session talk at Joint Statistical Meetings, Online, August 12th, 2021
+2. *The multirank likelihood for semiparametric CCA*. Invited talk at CFE-CMStatistics, Online. December 19th, 2021.
 
-3. [*Smaller \\(p\\)-Values in Genomics Studies Using Distilled Auxilliary Information*](/assets/misc/smaller_p_values_in_genomics_studies_pres.pdf). Contributed talk at the World Meeting of the International Society for Bayesian Analysis, Online, June 28th, 2021
+3. *Nonparametric empirical Bayes estimation using entropic optimal transport*. Speed session talk at Joint Statistical Meetings, Online. August 12th, 2021.
 
-4. [*Smaller \\(p\\)-Values in Genomics Studies Using Distilled Historical Information*](/assets/misc/smaller_p_values_in_genomics_studies_pres.pdf). Contributed talk at Joint Statistical Meetings, Online, August 3rd, 2020
+4. [*Smaller \\(p\\)-Values in Genomics Studies Using Distilled Auxilliary Information*](/assets/misc/smaller_p_values_in_genomics_studies_pres.pdf). Contributed talk at the World Meeting of the International Society for Bayesian Analysis, Online. June 28th, 2021.
 
-5. *Incompleteness and the Underground*. Paper presented at the 2nd Annual Duke-Stanford Graduate Conference, Durham, NC. April 6, 2019
+5. [*Smaller \\(p\\)-Values in Genomics Studies Using Distilled Historical Information*](/assets/misc/smaller_p_values_in_genomics_studies_pres.pdf). Contributed talk at Joint Statistical Meetings, Online. August 3rd, 2020.
 
-6. *Incompleteness and the Underground*. Paper presented at the 57th Annual Southern Conference on Slavic Studies, Mobile, AL. March 15, 2019
+6. *Incompleteness and the Underground*. Paper presented at the 2nd Annual Duke-Stanford Graduate Conference, Durham, NC. April 6, 2019.
 
-7. *CERES: A New Approach to Correct for Copy Number in CRISPR-Cas9 Screens*. CTD^2 D-HIP Webinar Series. CTD^2 Network. July 12, 2018
+7. *Incompleteness and the Underground*. Paper presented at the 57th Annual Southern Conference on Slavic Studies, Mobile, AL. March 15, 2019.
 
-8. *CERES—A model for inferring genetic dependencies in cancer cell lines from CRISPR knockout screens*. Meeting on Biological Data Science. Cold Spring Harbor Laboratory. October 26, 2016
+8. *CERES: A New Approach to Correct for Copy Number in CRISPR-Cas9 Screens*. CTD^2 D-HIP Webinar Series. CTD^2 Network. July 12, 2018.
+
+9. *CERES—A model for inferring genetic dependencies in cancer cell lines from CRISPR knockout screens*. Meeting on Biological Data Science. Cold Spring Harbor Laboratory. October 26, 2016.
