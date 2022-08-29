@@ -5,6 +5,10 @@ title: Teaching
 
 ### Courses
 
+**2022**
+
+STA 199 - Intro to Data Science - Head TA
+
 **2021:**
 
 STA 521 - Predictive Modeling and Statistical Learning - TA
