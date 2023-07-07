@@ -6,10 +6,12 @@ permalink: /
 
 {% include image.html url="assets/img/headshot.jpeg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I am a postdoctoral trainee in the Department of Biostatistics at the University of North Carolina, Chapel Hill. My work is supervised by Professors [Didong Li] and [Haibo Zhou]
 
 ## Contact
 
 Email: [jbry@unc.edu]
 
 [jbry@unc.edu]: mailto:jbry@unc.edu
+[Didong Li]: https://sites.google.com/view/didongli/home
+[Haibo Zhou]: https://sph.unc.edu/adv_profile/haibo-zhou-phd/
