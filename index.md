@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="assets/img/headshot.jpeg" caption="" max_width="200px" align="right" %}
+{% include image.html url="assets/img/headshot.jpeg" caption="" max_width="100px" align="right" %}
 
 I am a postdoctoral trainee in the Department of Biostatistics at the University of North Carolina, Chapel Hill. My work is supervised by [Didong Li] and [Haibo Zhou].
 
