@@ -10,11 +10,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
+Email: [jbry@unc.edu]
 
-
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[jbry@unc.edu]: mailto:jbry@unc.edu
