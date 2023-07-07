@@ -1,0 +1,59 @@
+I"F<p>Neural networks have become popular tools for transfering the style of one artistic work or photograph to another. Methods for performing style transfer are distinguished from one another by features of the neural network’s design as well as the loss function that guides network updates. In a recent project, I teamed up with <a href="https://stat.duke.edu/people/alessandro-zito-0">Alessandro Zito</a> to use a method based on the theory of <strong>optimal transport</strong> to transfer visual elements of musical instruments onto the forms of animals. The method was developed by Vince Marron and is available on his <a href="https://github.com/VinceMarron/style_transfer">GitHub Page</a>. The original photos used to produce the images in this post can be found at the links in the References section.</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/dcoral2.jpg" alt="alt text" /></p>
+
+<p>The artistic side of our work starts from a simple question: are musical instrument able to generate rhythm and motion even when they are not played? To test this, we fused the picture of several instruments with pictures of animals in resting poses (not caught during a particular motion).</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/scaterpillar.png" alt="alt text" /></p>
+
+<p>Rather than simply combining the pictures, we wanted to recognize the existing patterns and shapes of the instruments and to use them to deconstruct and then reconstruct the resting animals. The decomposition gives a sense of motion that is typical of the paintings of Franz Marc and the Italian futurists (especially Umberto Boccioni), with an artistic process that is somehow similar to that of the early Piet Mondrian and, more broadly, Damien Hirst. All of these artists provided a vivid and dynamic image of movement that always came from the geometric segmentation of reality.</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/ppanda.png" alt="alt text" /></p>
+
+<p>Our instruments are tools to set the animal into motion, to transfer momentum onto its soul. When every melody stops all that remains is the mood of the listener. Thus, we want the instruments, at the end, to almost disappear. All they have to provide is a spark of life.</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/tgiraffe.png" alt="alt text" /></p>
+
+<h1 id="references">References</h1>
+
+<p><strong>Fox</strong></p>
+
+<ul>
+  <li><a href="https://www.animalrescuediary.com/author/animalrescuediary_hs04ne/">https://www.animalrescuediary.com/author/animalrescuediary_hs04ne/</a></li>
+  <li><a href="https://wallpaperaccess.com/violin">https://wallpaperaccess.com/violin</a></li>
+</ul>
+
+<p><strong>Caterpillar</strong></p>
+
+<ul>
+  <li><a href="https://www.flickr.com/photos/135741389@N02/48117574837">https://www.flickr.com/photos/135741389@N02/48117574837</a></li>
+  <li><a href="https://www.kesslerandsons.com/product/yanagisawa-solid-silver-tenor-sax/">https://www.kesslerandsons.com/product/yanagisawa-solid-silver-tenor-sax/</a></li>
+</ul>
+
+<p><strong>Giraffe</strong></p>
+
+<ul>
+  <li><a href="https://www.pinterest.com/pin/119908408804479620/">https://www.pinterest.com/pin/119908408804479620/</a></li>
+  <li><a href="http://www.wright-music.com/rentals/school-year-trumpet-rental">http://www.wright-music.com/rentals/school-year-trumpet-rental</a></li>
+</ul>
+
+<p><strong>Panda</strong></p>
+
+<ul>
+  <li><a href="https://www.wwf.gr/en/endangered-species/panda">https://www.wwf.gr/en/endangered-species/panda</a></li>
+  <li><a href="https://www.musictoyourhome.com/blog/how-to-clean-piano-keys-without-damage/">https://www.musictoyourhome.com/blog/how-to-clean-piano-keys-without-damage/</a></li>
+</ul>
+
+<p><strong>Coral</strong></p>
+
+<ul>
+  <li><a href="http://www.drummertalk.org/2014/12/29/every-drum-yamaha-makes-in-one-kit-monsterkitmonday/">http://www.drummertalk.org/2014/12/29/every-drum-yamaha-makes-in-one-kit-monsterkitmonday/</a></li>
+  <li><a href="https://photos.com/featured/green-sea-turtle-over-coral-reef-georgette-douwma.html?product=poster">https://photos.com/featured/green-sea-turtle-over-coral-reef-georgette-douwma.html?product=poster</a></li>
+</ul>
+
+<p><strong>Code</strong></p>
+
+<ul>
+  <li><a href="https://github.com/VinceMarron/style_transfer">https://github.com/VinceMarron/style_transfer</a></li>
+</ul>
+:ET

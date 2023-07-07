@@ -1,0 +1,2 @@
+I")<p>The bias-variance tradeoff is usually discussed in terms of the mean squared error (MSE) of a predictor. However, it can also be applied to estimates of coefficients in a linear model. Below we examine how bias and variance figure into the MSE of coefficient estimates under a \(g\)-prior.</p>
+:ET

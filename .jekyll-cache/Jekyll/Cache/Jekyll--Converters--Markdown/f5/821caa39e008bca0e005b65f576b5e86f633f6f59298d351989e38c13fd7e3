@@ -1,0 +1,350 @@
+I"�9<p>Drinking water contamination affects many communities in the developing world. When safe water sources become available to these communities, various factors may determine whether residents modify their drinking habits. We analyze data gathered from \(3020\) residents in a developing country with Frequentist and Bayesian methods in order to understand why certain households switch to safer sources of drinking water and why others do not.</p>
+
+<p>These data were obtained from and are featured in Andrew Gelman and Jennifer Hill’s book <a href="http://www.stat.columbia.edu/~gelman/arm/">Data Analysis Using Regression and Multilevel/Hierarchical Models</a>. The authors of that work perform an analysis that focuses on interactions between the explanatory covariates. Our approach focuses on a thus far unexamined artifact present in the dataset.</p>
+
+<p>Using a standard probit model, we find some evidence that the distance to the nearest safe water source and the degree of contamination in the current water source are associated with a household’s propensity to switch. When checking the iid assumptions underlying our model, however, we find an apparent dependence between successive observations in the data. We demonstrate that incorporating this structure into our model increases our model quality as measured by AIC.</p>
+
+<p>We propose a scenario in which the researchers in this study collected data in geographic order, thereby inducing the dependence structure we observe. We hypothesize that neighboring households’ decisions to switch to safe water sources are the most important determinants of whether a given household will switch. Accordingly, we present two analyses of the data, one that ignores the dependence between successive observations and one that exploits this dependence.</p>
+
+<h2 id="inference-under-naive-probit-model">Inference under naive probit model</h2>
+
+<p>To collect these data, researchers interested in drinking water contamination in the developing world visited a region of Bangladesh to measure the concentration of arsenic in 3020 household wells. In addition to measuring arsenic levels, they recorded residents’ years of education, asked whether they were involved in their communities, and calculated the distance to the nearest safe drinking water source. Several years later, the researchers returned to the region to ask residents whether they had switched their source of drinking water since the last visit. We choose to model residents’ binary switch response using a probit regression:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{aligned}
+y_i &= \mathbf{1}_{z_i > 0} \\
+z_i &= X_i \cdot \beta + \epsilon_i \\
+\epsilon_i &\overset{\text{iid}}\sim N(0,1)
+\end{aligned} %]]></script>
+
+<p>Here, \(y_i\) is the binary response of the \(i\)th household, \(X_i\) is a \(1 \times 4\) vector containing the explanatory variables for household \(i\), and \(\beta\) are the model coefficients. The variable \(z_i\) is household \(i\)’s latent switch propensity score. For Frequentist inference, we fit the model using maximum likelihood estimation and obtain 95% confidence intervals for the coefficients \(\beta\).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Estimate</th>
+      <th>2.5%</th>
+      <th>97.5%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Intercept</td>
+      <td>0.2382</td>
+      <td>0.1773</td>
+      <td>0.2992</td>
+    </tr>
+    <tr>
+      <td>arsenic</td>
+      <td>0.3062</td>
+      <td>0.2549</td>
+      <td>0.3582</td>
+    </tr>
+    <tr>
+      <td>dist</td>
+      <td>-0.2101</td>
+      <td>-0.2582</td>
+      <td>-0.1624</td>
+    </tr>
+    <tr>
+      <td>assoc</td>
+      <td>-0.0796</td>
+      <td>-0.1726</td>
+      <td>0.0133</td>
+    </tr>
+    <tr>
+      <td>educ</td>
+      <td>0.1068</td>
+      <td>0.0605</td>
+      <td>0.1532</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 1</strong>: Coefficient estimates from Frequentist naive probit regression</p>
+
+<p>Our Bayesian procedure places a prior distribution on the coefficients \(\beta\) and constructs point estimates and 95% credible intervals from the posterior distribution of \(\beta | Z, X\). Under the prior \(\beta \sim N(b_0,B_0)\), the probit model allows us to find closed-form posterior distributions for all parameters given by</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{aligned}
+\beta|Z,X &\sim N(\beta_{\text{post}}, B_\text{post}) \\
+z_i|X_i,\beta,y_i &\sim \left\{
+  \begin{array}{ll}
+  TN_{[0,\infty)}(X_i \cdot \beta,1)  & \text{ if } y_i=1 \\
+  TN_{(-\infty,0)}(X_i \cdot \beta,1)  & \text{ if } y_i=0
+  \end{array} \right.
+\end{aligned} %]]></script>
+
+<p>where \( B_\text{post} = (B_0^{-1} + X^TX)^{-1} \), \(\beta_\text{post} = B_\text{post}(B_0^{-1} b_0+X^TZ)\), and \(TN_{(a,b)}\) denotes the normal density function truncated to lie within the interval \((a,b)\). Since we have relatively few covariates, relatively many samples, and no strong prior beliefs about the data, we set \(b_0\) and \(B_0\) to be the \(0\) vector and \(10^3\) times the identity matrix, respectively.</p>
+
+<p>The coefficient estimates and intervals from the Frequentist and Bayesian procedures are quite similar. They suggest that a resident’s involvement in the community is not predictive of whether he or she will switch wells. By contrast, high concentrations of arsenic in the resident’s household water are associated with higher propensity to switch wells. Short distances to the nearest safe water source are also weakly associated with higher propensity to switch, as are higher levels of household education.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Estimate</th>
+      <th>2.5%</th>
+      <th>97.5%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Intercept</td>
+      <td>0.2381</td>
+      <td>0.1769</td>
+      <td>0.2984</td>
+    </tr>
+    <tr>
+      <td>arsenic</td>
+      <td>0.3064</td>
+      <td>0.2541</td>
+      <td>0.3586</td>
+    </tr>
+    <tr>
+      <td>dist</td>
+      <td>-0.2103</td>
+      <td>-0.2577</td>
+      <td>-0.1627</td>
+    </tr>
+    <tr>
+      <td>assoc</td>
+      <td>-0.0793</td>
+      <td>-0.1717</td>
+      <td>0.0137</td>
+    </tr>
+    <tr>
+      <td>educ</td>
+      <td>0.1073</td>
+      <td>0.0599</td>
+      <td>0.1532</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 2</strong>: Coefficient estimates from Bayesian naive probit regression</p>
+
+<p>However, our assumption of independence of the residual terms in the Frequentist and Bayesian analyses appears to be violated (see Figure 1). The results are striking in both cases: even when all explanatory variables are held constant, there appears to be correlation between the responses of successive entries in the dataset.</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/acf_glm.jpeg" alt="alt text" title="Autocorrelation in the residuals" /></p>
+
+<p><strong>Figure 1</strong>: Autocorrelation in residuals</p>
+
+<h2 id="extending-the-probit-model-to-exploit-structural-dependence">Extending the probit model to exploit structural dependence</h2>
+
+<p>The dependence we observe suggests the following hypothesis: researchers collected (and stored) their data in geographic order, surveying neighboring households one by one. Households with neighbors that switched drinking wells were more likely to switch, perhaps because of social pressure to conform, perhaps due to advice or other information that flowed quickly from neighbor to neighbor. Whatever the mechanism that caused it, the dependence between successive observations motivates a new model, one that explicitly incorporates neighbor behavior into a resident’s response.</p>
+
+<p>Accordingly, we introduce an auto-regressive component to the probit model. Instead of assuming that a resident’s decision to switch is a function of the explanatory variables alone, we include the \(p\) previous residents’ switch responses as additional covariates.</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{aligned}
+y_i &= \mathbf{1}_{z_i > 0} \\
+z_i &= X_i \cdot \beta+\gamma_1 y_{i-1}+\cdots+\gamma_p y_{i-p} + \epsilon_i \\
+\epsilon_i &\overset{\text{iid}} \sim N(0,1)
+\end{aligned} %]]></script>
+
+<p>The number of lag terms, \(p\), may be selected using the AIC criterion, cross-validation accuracy or other model selection procedures. We choose the model with minimal AIC to set \(p = 7\). We then apply the Bayesian and frequentist procedures outlined above to the modified probit model.</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/acf_arglm.jpeg" alt="alt text" /></p>
+
+<p><strong>Figure 2</strong>: Removal of autocorrelation in residuals after introducing auto-regressive lag terms</p>
+
+<p>Both procedures yield similar results, which (1) improve model quality over the naive probit model, (2) eliminate the autocorrelation structure in the residuals (see Figure 2) and (3) demonstrate that although the explanatory variables highlighted in the previous section remain significant, the most important predictors of switch behavior are indeed the neighboring switch terms with lags \(1\) and \(2\).</p>
+
+<p><img src="https://github.com/j-g-b/j-g-b.github.io/raw/master/assets/img/aic_plot.jpeg" alt="alt text" /></p>
+
+<p><strong>Figure 3</strong>: AIC versus number of lag terms included in AR probit model</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Estimate</th>
+      <th>2.5%</th>
+      <th>97.5%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(Intercept)</td>
+      <td>-0.5962</td>
+      <td>-0.7127</td>
+      <td>-0.4803</td>
+    </tr>
+    <tr>
+      <td>arsenic</td>
+      <td>0.2323</td>
+      <td>0.1796</td>
+      <td>0.2857</td>
+    </tr>
+    <tr>
+      <td>dist</td>
+      <td>-0.1501</td>
+      <td>-0.2002</td>
+      <td>-0.1003</td>
+    </tr>
+    <tr>
+      <td>assoc</td>
+      <td>-0.0653</td>
+      <td>-0.1621</td>
+      <td>0.0315</td>
+    </tr>
+    <tr>
+      <td>educ</td>
+      <td>0.1006</td>
+      <td>0.0522</td>
+      <td>0.1492</td>
+    </tr>
+    <tr>
+      <td>switch_lag1</td>
+      <td>0.5371</td>
+      <td>0.4350</td>
+      <td>0.6392</td>
+    </tr>
+    <tr>
+      <td>switch_lag2</td>
+      <td>0.3775</td>
+      <td>0.2732</td>
+      <td>0.4819</td>
+    </tr>
+    <tr>
+      <td>switch_lag3</td>
+      <td>0.1242</td>
+      <td>0.0181</td>
+      <td>0.2300</td>
+    </tr>
+    <tr>
+      <td>switch_lag4</td>
+      <td>0.1014</td>
+      <td>-0.0052</td>
+      <td>0.2079</td>
+    </tr>
+    <tr>
+      <td>switch_lag5</td>
+      <td>0.1594</td>
+      <td>0.0532</td>
+      <td>0.2656</td>
+    </tr>
+    <tr>
+      <td>switch_lag6</td>
+      <td>0.0474</td>
+      <td>-0.0583</td>
+      <td>0.1529</td>
+    </tr>
+    <tr>
+      <td>switch_lag7</td>
+      <td>0.1160</td>
+      <td>0.0125</td>
+      <td>0.2193</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 3</strong>: Coefficient estimates from Frequentist AR probit regression</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th>Estimate</th>
+      <th>2.5%</th>
+      <th>97.5%</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(Intercept)</td>
+      <td>-0.5950</td>
+      <td>-0.7107</td>
+      <td>-0.4766</td>
+    </tr>
+    <tr>
+      <td>arsenic</td>
+      <td>0.2324</td>
+      <td>0.1791</td>
+      <td>0.2874</td>
+    </tr>
+    <tr>
+      <td>dist</td>
+      <td>-0.1507</td>
+      <td>-0.2005</td>
+      <td>-0.1002</td>
+    </tr>
+    <tr>
+      <td>assoc</td>
+      <td>-0.0633</td>
+      <td>-0.1599</td>
+      <td>0.0314</td>
+    </tr>
+    <tr>
+      <td>educ</td>
+      <td>0.1002</td>
+      <td>0.0519</td>
+      <td>0.1477</td>
+    </tr>
+    <tr>
+      <td>switch_lag1</td>
+      <td>0.5403</td>
+      <td>0.4393</td>
+      <td>0.6427</td>
+    </tr>
+    <tr>
+      <td>switch_lag2</td>
+      <td>0.3769</td>
+      <td>0.2716</td>
+      <td>0.4850</td>
+    </tr>
+    <tr>
+      <td>switch_lag3</td>
+      <td>0.1199</td>
+      <td>0.0133</td>
+      <td>0.2262</td>
+    </tr>
+    <tr>
+      <td>switch_lag4</td>
+      <td>0.1040</td>
+      <td>-0.0025</td>
+      <td>0.2085</td>
+    </tr>
+    <tr>
+      <td>switch_lag5</td>
+      <td>0.1614</td>
+      <td>0.0555</td>
+      <td>0.2663</td>
+    </tr>
+    <tr>
+      <td>switch_lag6</td>
+      <td>0.0475</td>
+      <td>-0.0582</td>
+      <td>0.1533</td>
+    </tr>
+    <tr>
+      <td>switch_lag7</td>
+      <td>0.1137</td>
+      <td>0.0083</td>
+      <td>0.2141</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Table 4</strong>: Coefficient estimates from Bayesian AR probit regression</p>
+
+<h2 id="conclusion-and-recommendations">Conclusion and recommendations</h2>
+
+<p>Though our hypothesis that the data were collected in geographic order is still just a hypothesis, we find clear evidence that incorporating lag-terms into the probit model improves our model quality. A future study might explicitly record household location to verify that the dependence we observe is spatial in nature.</p>
+
+<p>Additional studies might also focus on recording explanatory covariates with more actionable policy remedies. Altering the education level of the head of the household, for example, seems like an indirect way of ensuring that a family obtains safe drinking water in the near future. By contrast, recording whether residents have access to a car or other means of transportation seems easier to remedy in the short term, perhaps through targeted subsidy or loan programs.</p>
+
+<p>Given these data alone, the naive probit model suggests that building more safe drinking water sources closer to residents might encourage more households to change their behavior. However, if we are correct about the spatial dependence in the data, the AR probit model suggests that appropriate policy interventions should exploit the effect of geographic proximity. We suggest a few possibilities: (1) Select a subset of residents with optimal geographic coverage in the region and give these households direct financial incentives to switch wells. (2) Encourage households that have switched to tell their neighbors that they have done so. (3) Hold town meetings and ask volunteers to give positive testimony about switching to a safe drinking water source.</p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+
+<p>This work was done in collaboration with Bora Jin, Naoki Awaya, and Shounak Chattopadhyay.</p>
+
+<h2 id="references">References</h2>
+
+<p>Albert, James H., and Siddhartha Chib. “Bayesian analysis of binary and polychotomous response data.” <em>Journal of the American statistical Association</em> 88, no. 422 (1993): 669-679.</p>
+
+<p>Gelman, Andrew, and Jennifer Hill. <em>Data analysis using regression and multilevel/hierarchical models.</em> Cambridge university press, 2006.</p>
+:ET

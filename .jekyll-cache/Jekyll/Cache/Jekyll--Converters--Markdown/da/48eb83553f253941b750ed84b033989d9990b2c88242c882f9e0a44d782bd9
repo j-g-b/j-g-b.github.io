@@ -1,0 +1,4 @@
+I"�<p>The Cancer Data Science team and others at the Broad Institute came out with an article in <a href="https://www.nature.com/ncomms/">Nature Communications</a> today detailing a new method for normalizing and integrating multiple large RNAi screening datasets. It’s called DEMETER2, named after the Roman goddess of the harvest.</p>
+
+<p>DEMETER2 uses a hierarchical Bayesian model to estimate gene dependency scores in cancer cells from measurements of multiple shRNAs. Like the original <a href="https://depmap.org/rnai/">DEMETER</a>, DEMETER2 accounts for the effects of “seed sequences” that align to multiple sites in the genome. Read more about it at the <a href="https://depmap.org/R2-D2/">accompanying website</a></p>
+:ET
