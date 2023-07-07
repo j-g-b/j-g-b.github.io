@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Teaching
+permalink: /teaching/
 ---
 
-### Courses
+### Courses at Duke University
 
 **2022**
 
