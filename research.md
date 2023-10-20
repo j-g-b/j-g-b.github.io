@@ -45,6 +45,8 @@ Mackey, L, **Bryan, J**, and Mo, MY. "[Weighted Classification Cascades for Opti
 
 ### Talks
 
+*Incompleteness and the Underground*. Paper presented at the meeting of the International Dostoevsky Society, Nagoya, Japan. August 28, 2023.
+
 *The multirank likelihood for semiparametric CCA*. Contributed talk at BNP Networking Event, Nicosia, Cyprus. April 27, 2022.
 
 *The multirank likelihood for semiparametric CCA*. Invited talk at CFE-CMStatistics, Online. December 19th, 2021.
