@@ -6,6 +6,8 @@ title: Research
 
 ### Preprints
 
+**Bryan, JG**, Zhou, H., and Li, D. "A compromise criterion for weighted least squares estimates."
+
 **Bryan, JG**, and Hoff, PD. "[Linear source apportionment using generalized least squares](https://arxiv.org/abs/2310.12460)." https://arxiv.org/abs/2310.12460.
 
 **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465. 
