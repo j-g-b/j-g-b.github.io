@@ -6,7 +6,7 @@ title: Research
 
 ### Preprints
 
-**Bryan, JG**, Zhou, H., and Li, D. "A compromise criterion for weighted least squares estimates."
+**Bryan, JG**, Zhou, H., and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
 
 **Bryan, JG**, and Hoff, PD. "[Linear source apportionment using generalized least squares](https://arxiv.org/abs/2310.12460)." https://arxiv.org/abs/2310.12460.
 
