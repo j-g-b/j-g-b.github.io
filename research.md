@@ -12,7 +12,7 @@ title: Research
 
 ### Publications
 
-1. **Bryan, JG**, and Hoff, PD. "[Linear source apportionment using generalized least squares](https://arxiv.org/abs/2310.12460)." *Technometrics*, to appear, 2024.
+1. **Bryan, JG**, Hoff, PD, and Osburn, CL. "[Linear source apportionment using generalized least squares](https://arxiv.org/abs/2310.12460)." *Technometrics*, to appear, 2024.
 
 2. **Bryan, J** and Li D. "[Comments on Contemporary Uses of Machine Learning for Electronic Health Records](https://ncmedicaljournal.com/article/120570-comments-on-contemporary-uses-of-machine-learning-for-electronic-health-records)." *North Carolina Medical Journal*, (July 11 2024). https://doi.org/10.18043/001c.120570
 
