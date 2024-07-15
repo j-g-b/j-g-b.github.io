@@ -8,11 +8,11 @@ title: Research
 
 1. **Bryan, JG**, Zhou, H., and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
 
-2. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465. 
+2. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465.
 
 ### Publications
 
-1. **Bryan, JG**, Hoff, PD, and Osburn, CL. "[Linear source apportionment using generalized least squares](https://arxiv.org/abs/2310.12460)." *Technometrics*, to appear, 2024.
+1. **Bryan, JG**, Hoff, PD, and Osburn, CL. "[Linear source apportionment using generalized least squares](https://www.tandfonline.com/doi/full/10.1080/00401706.2024.2379850)." *Technometrics*, (July 15 2024). https://doi.org/10.1080/00401706.2024.2379850
 
 2. **Bryan, J** and Li D. "[Comments on Contemporary Uses of Machine Learning for Electronic Health Records](https://ncmedicaljournal.com/article/120570-comments-on-contemporary-uses-of-machine-learning-for-electronic-health-records)." *North Carolina Medical Journal*, (July 11 2024). https://doi.org/10.18043/001c.120570
 
