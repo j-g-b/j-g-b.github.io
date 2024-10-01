@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="assets/img/headshot.jpeg" caption="" max_width="100px" align="right" %}
 
-I am a postdoctoral trainee in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina, Chapel Hill. My work is supervised by [Didong Li] and [Haibo Zhou].
+I am a postdoctoral research associate in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina, Chapel Hill. My work is supervised by [Didong Li] and supported by [Kari North] through a T32 training grant provided by the National Heart, Lung, and Blood Institute (NHLBI).
 
 As of January 2024, I am the Secretary of the [Junior Section of the International Society for Bayesian Analysis (j-ISBA)](https://j-isba.github.io/index.html).
 
@@ -18,5 +18,5 @@ Email: [jbry@unc.edu]
 
 [jbry@unc.edu]: mailto:jbry@unc.edu
 [Didong Li]: https://sites.google.com/view/didongli/home
-[Haibo Zhou]: https://sph.unc.edu/adv_profile/haibo-zhou-phd/
+[Kari North]: https://sph.unc.edu/adv_profile/kari-north-phd/
 [Peter Hoff]: https://pdhoff.github.io
