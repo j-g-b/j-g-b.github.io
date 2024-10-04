@@ -11,3 +11,7 @@ permalink: /misc/
 3. [Intro to HMC](assets/misc/lab04.html)
 4. [Truncated Data and Modeling](assets/misc/lab08.html)
 
+## UNC BIOS889 Draft Syllabus
+
+[Draft syllabus](assets/misc/draft_syllabus.pdf)
+
