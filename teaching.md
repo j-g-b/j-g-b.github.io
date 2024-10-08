@@ -4,7 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Courses at Duke University
+### At UNC Chapel Hill
+
+**2025**
+
+BIOS 889 - Preparation for Research in Biostatistics - Instructor of record
+
+### At Duke University
 
 **2022**
 
