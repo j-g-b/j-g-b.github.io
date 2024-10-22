@@ -51,6 +51,8 @@ For an up-to-date list of publications, please see [Google Scholar](https://scho
 
 ### Talks
 
+*Applying least squares principles to estimating sources of contamination in the Neuse River basin*. Invited talk at Penn State University SMAC seminar. October 18th, 2024.
+
 *Applying least squares principles to estimating sources of contamination in the Neuse River basin*. Webinar for the North Carolina Chapter of the American Statistical Association. April 9th, 2024.
 
 *Least squares principles for the source apportionment problem*. Invited talk at CMStatistics, Berlin, Germany. December 17th, 2023.
