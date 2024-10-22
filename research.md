@@ -22,7 +22,7 @@ For an up-to-date list of publications, please see [Google Scholar](https://scho
 
 4. **Bryan, JG**, Hoff, PD, and Osburn CL. "[Routine Estimation of Dissolved Organic Matter Sources Using Fluorescence Data and Linear Least Squares](https://pubs.acs.org/doi/10.1021/acsestwater.2c00605)." *ACS ES&T Water*, (May 20, 2023). https://doi.org/10.1021/acsestwater.2c00605
 
-5. **Bryan, JG**, and Hoff, PD. "[Smaller \\(p\\)-values in genomics studies using distilled auxiliary information](https://academic.oup.com/biostatistics/article/24/1/193/6322375)." *Biostatistics*, (July 16, 2021). https://doi.org/10.1093/biostatistics/kxaa053
+5. **Bryan, JG**, and Hoff, PD. "[Smaller *p*-values in genomics studies using distilled auxiliary information](https://academic.oup.com/biostatistics/article/24/1/193/6322375)." *Biostatistics*, (July 16, 2021). https://doi.org/10.1093/biostatistics/kxaa053
 
 6. Sheffer, M, Lowry, E, Beelen, N, Borah, M, Amara, SN, Mader, CC, Roth, JA, Tsherniak, A, Freeman, SS, Dashevsky, O, Gandolfi, S, Bender, S, **Bryan, JG**, Zhu, C, Wang, L, Tariq, I, Kamath, GM, Simoes, RD, Dhimolea, E, Yu, C, Hu, Y, Dufva, O, Giannakis, M, Syrgkanis, V, Fraenkel, E, Golub, T, Romee, R, Mustjoki, S, Culhane, AC, Wieten, L, Mitsiades, CS. "[Genome-scale screens identify factors regulating tumor cell responses to natural killer cells](https://www.nature.com/articles/s41588-021-00889-w)." *Nature Genetics*, (July, 12, 2021). https://doi.org/10.1038/s41588-021-00889-w
 
