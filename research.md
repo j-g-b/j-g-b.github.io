@@ -4,6 +4,8 @@ permalink: /research/
 title: Research
 ---
 
+For an up-to-date list of publications, please see [Google Scholar](https://scholar.google.com/citations?user=QM7Lpn8AAAAJ&hl=en&oi=ao).
+
 ### Preprints
 
 1. **Bryan, JG**, Zhou, H., and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
