@@ -8,7 +8,7 @@ permalink: /teaching/
 
 **2025**
 
-BIOS 889 - Preparation for Research in Biostatistics - Instructor of record
+BIOS 600 - Principles of Statistical Inference - Instructor of record
 
 ### At Duke University
 
