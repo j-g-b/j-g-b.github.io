@@ -8,9 +8,13 @@ For an up-to-date list of publications, please see [Google Scholar](https://scho
 
 ### Preprints
 
-1. **Bryan, JG**, Zhou, H., and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
+1. **Bryan, JG**, Niu, H, and Li, D. "Incorporating LLM-Derived Information into
+Hypothesis Testing for Genomics
+Applications." *Under review at the Journal of the American Statistical Association*
 
-2. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465.
+2. **Bryan, JG**, Zhou, H, and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
+
+3. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465.
 
 ### Publications
 
