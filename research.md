@@ -10,7 +10,7 @@ For an up-to-date list of publications, please see [Google Scholar](https://scho
 
 1. **Bryan, JG**, Niu, H, and Li, D. "[Incorporating LLM-Derived Information into
 Hypothesis Testing for Genomics
-Applications.](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1.abstract)" *Under review at the Journal of the American Statistical Association*
+Applications.](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1.abstract)"
 
 2. **Bryan, JG**, Zhou, H, and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
 
