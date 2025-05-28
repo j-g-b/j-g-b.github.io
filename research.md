@@ -12,7 +12,7 @@ For an up-to-date list of publications, please see [Google Scholar](https://scho
 Hypothesis Testing for Genomics
 Applications.](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1.abstract)"
 
-2. **Bryan, JG**, Zhou, H, and Li, D. "[A compromise criterion for weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
+2. **Bryan, JG**, Zhou, H, and Li, D. "[Subscedastic weighted least squares estimates](https://arxiv.org/abs/2404.00753)." https://arxiv.org/abs/2404.00753.
 
 3. **Bryan, JG**, Niles-Weed, J, and Hoff, PD. "[The multirank likelihood for semiparametric canonical correlation analysis](https://arxiv.org/abs/2112.07465)." https://arxiv.org/abs/2112.07465.
 
