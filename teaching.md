@@ -4,15 +4,21 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### At UNC Chapel Hill
+### University of Virginia
 
-**2025**
+**2025:**
 
-BIOS 600 - Principles of Statistical Inference - Instructor of record
+DS 6300 - Theory I: Probability & Stochastic Processes
 
-### At Duke University
+### UNC Chapel Hill
 
-**2022**
+**2025:**
+
+BIOS 600 - Principles of Statistical Inference - Instructor
+
+### Duke University
+
+**2022:**
 
 STA 199 - Intro to Data Science - Head TA
 
