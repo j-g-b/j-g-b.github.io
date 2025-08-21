@@ -19,6 +19,7 @@ As of January 2024, I am the Secretary of the [Junior Section of the Internation
 ## Contact
 
 1919 Ivy Rd., Rm. 347
+
 Charlottesville, VA 22903
 
 
