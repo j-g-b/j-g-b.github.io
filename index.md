@@ -18,9 +18,8 @@ As of January 2024, I am the Secretary of the [Junior Section of the Internation
 
 ## Contact
 
-Email: [jbryan@virginia.edu]
+1919 Ivy Rd., Rm. 347
 
-[uen8eq@virginia.edu]: mailto:uen8eq@virginia.edu
 [Haibo Zhou]: https://sph.unc.edu/adv_profile/haibo-zhou-phd/
 [Didong Li]: https://sites.google.com/view/didongli/home
 [Kari North]: https://sph.unc.edu/adv_profile/kari-north-phd/
