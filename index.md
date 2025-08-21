@@ -18,7 +18,7 @@ As of January 2024, I am the Secretary of the [Junior Section of the Internation
 
 ## Contact
 
-Email: [uen8eq@virginia.edu]
+Email: [jbryan@virginia.edu]
 
 [uen8eq@virginia.edu]: mailto:uen8eq@virginia.edu
 [Haibo Zhou]: https://sph.unc.edu/adv_profile/haibo-zhou-phd/
