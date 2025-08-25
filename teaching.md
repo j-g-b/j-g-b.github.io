@@ -8,7 +8,7 @@ permalink: /teaching/
 
 **2025:**
 
-DS 6300 - Theory I: Probability & Stochastic Processes - Instructor
+DS 6300 - [Theory I: Probability & Stochastic Processes](https://uvads.github.io/DS6300/) - Instructor
 
 ### UNC Chapel Hill
 
