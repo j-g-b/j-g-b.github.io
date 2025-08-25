@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="2025-Jordan-Bryan-1.jpg" caption="" max_width="100px" align="right" %}
+{% include image.html url="assets/img/2025-Jordan-Bryan-1.jpg" caption="" max_width="100px" align="right" %}
 
 I am an Assistant Professor of Data Science at the [School of Data Science](https://datascience.virginia.edu) at the University of Virginia.
 
