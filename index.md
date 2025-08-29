@@ -6,7 +6,7 @@ permalink: /
 
 {% include image.html url="assets/img/2025-Jordan-Bryan-1.jpg" caption="" max_width="100px" align="right" %}
 
-I am an Assistant Professor of Data Science at the [School of Data Science](https://datascience.virginia.edu) at the University of Virginia.
+I am an Assistant Professor of Data Science at the [School of Data Science](https://datascience.virginia.edu) at the [University of Virginia](https://www.virginia.edu).
 
 I study and develop statistical methods for the analysis of multivariate data in the natural sciences, including the fields of environmental monitoring, high energy physics, and cancer genomics.  My work touches on diverse topics in Bayesian statistics, linear models, robust estimation, and information-assisted hypothesis testing.
 
