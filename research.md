@@ -12,9 +12,7 @@ For an up-to-date list of publications, please see [Google Scholar](https://scho
 
 2. Niu, H, **Bryan, JG**, Li, X, and Li, D. "[Incorporating LLM Embeddings for Variation Across the Human Genome](https://arxiv.org/abs/2509.20702)." https://arxiv.org/abs/2509.20702.
 
-3. **Bryan, JG**, Niu, H, and Li, D. "[Incorporating LLM-Derived Information into
-Hypothesis Testing for Genomics
-Applications.](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v1.abstract)"
+3. **Bryan, JG**, Niu, H, and Li, D. "[Incorporating Large Language Model-Derived Information into Hypothesis Testing for Genomics.](https://www.biorxiv.org/content/10.1101/2025.04.30.651464v2)"
 
 ### Publications
 
