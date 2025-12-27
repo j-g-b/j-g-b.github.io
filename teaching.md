@@ -6,6 +6,10 @@ permalink: /teaching/
 
 ### University of Virginia
 
+**2026:**
+
+DS 6310 - Theory II: Inference & Prediction
+
 **2025:**
 
 DS 6300 - [Theory I: Probability & Stochastic Processes](https://uvads.github.io/DS6300/) - Instructor
