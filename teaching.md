@@ -8,7 +8,7 @@ permalink: /teaching/
 
 **2026:**
 
-DS 6310 - Theory II: Inference & Prediction
+DS 6310 - [Theory II: Inference & Prediction](https://uvads.github.io/DS6310/) - Instructor
 
 **2025:**
 
